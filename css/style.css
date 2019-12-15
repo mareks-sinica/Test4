@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     width: 100%;
-    font-family: "Linux Biolinum G", sans-serif;
+    font-family: "Arial Black", sans-serif;
     color: #222;
 }
 
@@ -58,11 +58,11 @@ html, body {
     transform: scale(1.1);
 }
 footer {
-    background-color: #4e555b;
+    background-color: navy;
     padding-top: 2rem;
 }
 hr.light {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid yellowgreen;
     width: 75%;
     margin-top: .8rem;
     margin-bottom: 1rem;
